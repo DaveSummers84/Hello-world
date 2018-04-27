@@ -32,9 +32,9 @@ echo "Hello World!"
 
 | Col 1 Title | Col 2 Title | Col 3 Title |
 |:------------|------------:|:------------|
-|Dave|Summers|SPA2|
-|Mini       |Dave        |SPA3         |
-|Mini Mini| Dave |SPA4|
+|Dave|Summers|SPA3|
+|Mini       |Dave        |SPA4         |
+|Mini Mini| Dave |SPA5|
 
 > This is a quote.
 >
